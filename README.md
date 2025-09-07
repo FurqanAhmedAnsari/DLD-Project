@@ -83,6 +83,3 @@ This project implements a continuous digital counter using discrete JK flip-flop
 - **Clock Frequency**: 1Hz ±5%
 - **Propagation Delay**: Cumulative through flip-flop chain
 - **Display Update Rate**: 1 second intervals
-
-### Note: 
-- This counter operates continuously and does not implement a 24-hour reset mechanism.
